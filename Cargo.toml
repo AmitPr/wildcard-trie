@@ -1,7 +1,13 @@
 [package]
 name = "wildcard-trie"
+description = "A space-efficient router / radix-trie that supports wildcards."
 version = "0.1.0"
 edition = "2024"
+authors = ["Amit Prasad <mail@amitprasad.dev>"]
+license = "MIT"
+repository = "https://github.com/AmitPr/wildcard-trie"
+homepage = "https://github.com/AmitPr/wildcard-trie"
+keywords = ["trie", "routing", "radix", "wildcard", "url"]
 
 [dependencies]
 
